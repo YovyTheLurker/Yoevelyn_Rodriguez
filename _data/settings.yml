@@ -1,22 +1,22 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: 'Guest'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'From the Wire',  url: 'wire'}
+- {name: 'Posts', url: 'posts'}
+- {name: 'Software Projects',       url: 'software-projects'}
+- {name: 'Hardware Projects',      url: 'hardware-projects'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
+- {icon: 'twitter', link:    'https://twitter.com/YoevelynR'}
 - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
 - {icon: 'instagram', link:  'https://instagram.com/paululele'}
 - {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
