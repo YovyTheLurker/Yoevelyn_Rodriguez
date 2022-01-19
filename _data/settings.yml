@@ -7,8 +7,8 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'From the Wire',  url: 'wire'}
-- {name: 'Posts', url: 'posts'}
+- {name: 'From the Wire',           url: 'wire'}
+- {name: 'Posts',                   url: 'posts'}
 - {name: 'Software Projects',       url: 'software-projects'}
 - {name: 'Hardware Projects',      url: 'hardware-projects'}
 - {name: 'About',              url: 'about'}
