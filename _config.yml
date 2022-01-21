@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "CyberBrainz"
+title:		           "BadBrainz"
 description:	       "1s and 0s in your brainz "
 author:              "Yovy"
 
