@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Resources"
 author: "Paul Le"
-categories: /wire
+categories: /hardware-projects
 tags: [documentation,sample]
 image: arctic-2.jpg
 ---
